@@ -1,0 +1,63 @@
+
+html, body {
+    margin: 10;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    display: block;
+    border: 10px solid ;
+    margin-right:auto;
+    margin-left:auto;
+    
+  }.hello{
+    color: dodgerblue}
+    .frame {
+      margin: auto;
+    width: 83.0em;
+    height: 22.3em;
+    overflow: hidden;
+    background-image: linear-gradient(to right, #a5f215, #f2dc15);
+    background-size: 100% 100%;
+    position: relative;
+     
+     
+  
+ 
+}
+.bg2 {
+  margin: auto;
+  width: 83.0em;
+  height: 45.2em/2;
+  overflow: hidden;
+  background-image: linear-gradient(to left, #1053e5, #15f2ea);
+  background-size: 100% 100%;
+  position: relative;
+ 
+
+
+}
+.intro{
+    color:darkslategray;
+    padding: 40px;
+   font-size:100
+    
+}
+.camelchamelon{
+color:aquamarine;
+background-color: rebeccapurple;
+    display:flex;
+  
+    flex-direction:row;
+    justify-content: left;
+  
+  }
+  .facts{
+      color:#e50b45;
+      font-size:30 px;
+
+  }
+  
+  
+  
+ 
